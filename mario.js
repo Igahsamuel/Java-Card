@@ -83,6 +83,7 @@ for(let i = 0; i < teamMembers.length; i++){
     <h5 class="card-title">${members.name}</h5>
         <ul class="list-group>
         <li class="list-group-item">${members.bestMovie}</li>
+        <li class="list-group-item">${members.bestFood}</li>
         <li class="list-group-item">${members.complexion}</li>
         <li class="list-group-item">${members.thingsLearnt}</li>
         <li class="list-group-item">${members.age}</li>
