@@ -5,7 +5,7 @@ let teamMembers = [
         bestFood: "Pounded yam and okro soup",
         bestMovie: "Charmed",
         complexion: "Dark-skinned",
-        thingsLeart: ['HTML', 'CSS', 'BOOTSTRAP', 'JAVASCRIPT'],
+        thingsLearnt: ['HTML', 'CSS', 'BOOTSTRAP', 'JAVASCRIPT'],
         age: '23years',
     },
         {
@@ -14,7 +14,7 @@ let teamMembers = [
             bestFood: "Spaghetti",
             bestMovie: "Inglorious Basterds",
             complexion: "Dark-skinned",
-            thingsLeart: ['HTML', 'CSS', 'BOOTSTRAP', 'JAVASCRIPT'],
+            thingsLearnt: ['HTML', 'CSS', 'BOOTSTRAP', 'JAVASCRIPT'],
             age: '22years',
         },
         {
@@ -23,7 +23,7 @@ let teamMembers = [
             bestFood: "Ewa Ago and Bread",
             bestMovie: "Halo",
             complexion: "Dark-skinned",
-            thingsLeart: ['HTML', 'CSS', 'BOOTSTRAP', 'JAVASCRIPT'],
+            thingsLearnt: ['HTML', 'CSS', 'BOOTSTRAP', 'JAVASCRIPT'],
             age: '21years',
         },
         {
@@ -32,7 +32,7 @@ let teamMembers = [
             bestFood: "Uburobe and ndagara",
             bestMovie: "Suits",
             complexion: "Dark-skinned",
-            thingsLeart: ['HTML', 'CSS', 'BOOTSTRAP', 'JAVASCRIPT'],
+            thingsLearnt: ['HTML', 'CSS', 'BOOTSTRAP', 'JAVASCRIPT'],
             age: '23years',
         },
         {
@@ -41,7 +41,7 @@ let teamMembers = [
             bestFood: "Pilau and Chicken",
             bestMovie: "The Darkest Mind",
             complexion: "Dark-skinned",
-            thingsLeart: ['HTML', 'CSS', 'BOOTSTRAP', 'JAVASCRIPT'],
+            thingsLearnt: ['HTML', 'CSS', 'BOOTSTRAP', 'JAVASCRIPT'],
             age: '22years',
         },
         {
@@ -50,7 +50,7 @@ let teamMembers = [
             bestFood: "Chips and Chicken",
             bestMovie: "The Legend",
             complexion: "Dark-skinned",
-            thingsLeart: ['HTML', 'CSS', 'BOOTSTRAP', 'JAVASCRIPT'],
+            thingsLearnt: ['HTML', 'CSS', 'BOOTSTRAP', 'JAVASCRIPT' ],
             age: '21years',
         },
         {
@@ -59,7 +59,7 @@ let teamMembers = [
             bestFood: "Chips and Chicken",
             bestMovie: "House MD",
             complexion: "Light-skinned",
-            thingsLeart: ['HTML', 'CSS', 'BOOTSTRAP', 'JAVASCRIPT'],
+            thingsLearnt: ['HTML', 'CSS', 'BOOTSTRAP', 'JAVASCRIPT'],
             age: '22years',
         },
         {
@@ -68,7 +68,7 @@ let teamMembers = [
             bestFood: "Yam and Egg",
             bestMovie: "Spider-man",
             complexion: "Light-skinned",
-            thingsLeart: ['HTML', 'CSS', 'BOOTSTRAP', 'JAVASCRIPT'],
+            thingsLearnt: ['HTML', 'CSS', 'BOOTSTRAP', 'JAVASCRIPT'],
             age: "25years",
         },
 ];
